@@ -1,0 +1,25 @@
+ .card {
+border: 2px solid grey;
+ margin-left: 20px;
+ margin-right:20px;
+ margin-bottom: 20px;
+ margin-top: 20px;
+ display:  none;
+ border-radius: 8px;
+}
+
+div {
+  color: #00fffa;
+}
+
+h1 {
+  color: #00fffa;
+}
+
+input{
+  height: 40px;
+  background-color: grey;
+  border-radius: 5px;
+  color: black;
+  border: 2px solid grey;
+}
